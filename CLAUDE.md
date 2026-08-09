@@ -1,15 +1,15 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Este archivo proporciona guía a Claude Code (claude.ai/code) al trabajar con código en este repositorio.
 
-## Repository purpose
+## Propósito del repositorio
 
-This is the `lobetec/lobetec` GitHub repository — the special repo name GitHub uses to render an organization's public profile page. Its sole content is `README.md`, which GitHub displays on the LOBETEC organization's GitHub profile.
+Este es el repositorio `lobetec/lobetec` de GitHub — el nombre especial de repo que GitHub utiliza para renderizar la página de perfil público de una organización. Su único contenido es `README.md`, que GitHub muestra en el perfil de GitHub de la organización LOBETEC.
 
-There is no application source code, build system, package manifest, test suite, or CI configuration in this repository.
+No hay código fuente de aplicación, sistema de build, manifiesto de paquetes, suite de tests ni configuración de CI en este repositorio.
 
-## Working in this repo
+## Trabajar en este repositorio
 
-- The only file of substance is `README.md`. Changes here are content/copy edits (company description, tech stack list, links), not code changes.
-- There are no build, lint, or test commands — none are configured, and none should be assumed or invented.
-- LOBETEC's actual product work (Oracle APEX / PL/SQL applications, per the README) lives in other repositories, not this one.
+- El único archivo con contenido relevante es `README.md`. Los cambios aquí son ediciones de contenido/texto (descripción de la empresa, listado de tecnologías, enlaces), no cambios de código.
+- No existen comandos de build, lint o test — ninguno está configurado, y no deben asumirse ni inventarse.
+- El trabajo de producto real de LOBETEC (aplicaciones Oracle APEX / PL/SQL, según el README) vive en otros repositorios, no en este.
